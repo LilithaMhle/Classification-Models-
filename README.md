@@ -37,7 +37,7 @@ These diverse feature types make it well-suited for comparing classification mod
 
 ##  Files
 
-- `22322987_Classification_Models_Logistic_vs_RandomForest.ipynb`: Main notebook containing the full implementation.
+- `Classification_Models.ipynb`: Main notebook containing the full implementation.
 - `README.md`: This file, explaining the project structure and purpose.
 
 ---
